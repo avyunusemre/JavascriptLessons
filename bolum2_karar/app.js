@@ -95,3 +95,22 @@ const karar = asal
   : `${number} asal bir sayı değildir!`;
 
 console.log(karar);
+
+// let not = +prompt("0-100 arası bir not giriniz : ");
+
+// while (not < 0 || not > 100) {
+//   console.log("Girilen not 0-100 arasında olmalıdır.");
+//   not = +prompt("0-100 arası bir not giriniz.");
+// }
+
+// console.log(`${not}, 0-100 arasındadır.`);
+
+// let not;
+// let i = 1;
+
+// do {
+//   not = prompt(i + ". kişinin notunu giriniz :");
+//   not = not.toLowerCase();
+//   console.log(`${i}. kişinin notu : ${not}`);
+//   i++;
+// } while (not != "q");
