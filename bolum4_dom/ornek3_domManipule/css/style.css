@@ -1,0 +1,11 @@
+.ekle,
+.sil {
+  width: 6rem;
+}
+
+/* Bu class Js ile olusturulmustur. */
+.yeni-h1 {
+  margin-top: 20px;
+  color: red;
+  text-align: left;
+}
